@@ -1,0 +1,12 @@
+enc_temp_folder/
+Debug/
+ipch/
+Release/
+
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.suo
+*.vcxproj.filters
+*.vcxproj.user
